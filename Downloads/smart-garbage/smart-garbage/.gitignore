@@ -1,0 +1,7 @@
+# Never commit real credentials
+includes/config.php
+# Delete after first run
+seed.php
+.vscode/
+.DS_Store
+Thumbs.db
